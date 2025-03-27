@@ -1,0 +1,23 @@
+# Archivos de NetBeans
+nbproject/private/
+nbbuild/
+build/
+dist/
+nbproject/genfiles.properties
+nbproject/project.properties.backup
+
+# Archivos de compilación y ejecución
+*.class
+*.jar
+*.war
+*.ear
+
+# Configuración específica del sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Archivos relacionados con Ant
+build.xml
+manifest.mf
